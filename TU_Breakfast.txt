@@ -1,0 +1,266 @@
+Day	Menu	Food
+Mon	COMFORT	Grits
+Mon	COMFORT	Old Fashioned Oatmeal
+Mon	COMFORT	Hash Brown Potato Patty
+Mon	COMFORT	Applewood Smoked Bacon
+Mon	COMFORT	Pork Sausage Patty
+Mon	COMFORT	Turkey Sausage Link
+Mon	COMFORT	Southern Biscuit
+Mon	COMFORT	Sausage Gravy
+Mon	COMFORT	Scrambled Eggs Cage Free
+Mon	DESSERT	Blueberry Scone
+Mon	DESSERT	Bagel
+Mon	DESSERT	Danish Pastry
+Mon	DESSERT	English Muffin
+Mon	DESSERT	Iced Cinnamon Roll
+Mon	DESSERT	Croissant
+Mon	DESSERT	White Bread
+Mon	DESSERT	Whole Wheat Bread
+Mon	DESSERT	Strawberry Preserves
+Mon	DESSERT	Peanut Butter
+Mon	DESSERT	Bacon Cream Cheese
+Mon	DESSERT	Whipped Cream Cheese
+Mon	DESSERT	Nutella
+Mon	DESSERT	Whipped Butter
+Mon	INTERNATIONAL GRILL	Bacon Pieces
+Mon	INTERNATIONAL GRILL	Diced Pork Sausage Patty
+Mon	INTERNATIONAL GRILL	Diced Turkey
+Mon	INTERNATIONAL GRILL	Egg
+Mon	INTERNATIONAL GRILL	Egg Whites
+Mon	INTERNATIONAL GRILL	Shredded Cheddar Cheese
+Mon	INTERNATIONAL GRILL	Shredded Mozzarella
+Mon	INTERNATIONAL GRILL	Baby Spinach
+Mon	INTERNATIONAL GRILL	Diced Green Peppers
+Mon	INTERNATIONAL GRILL	Diced Onions
+Mon	INTERNATIONAL GRILL	Diced Tomatoes
+Mon	INTERNATIONAL GRILL	Sauteed Mushrooms
+Tue	COMFORT	Grilled Ham Steak
+Tue	COMFORT	Grits
+Tue	COMFORT	Old Fashioned Oatmeal
+Tue	COMFORT	Home Fries
+Tue	COMFORT	Applewood Smoked Bacon
+Tue	COMFORT	Turkey Bacon
+Tue	COMFORT	Southern Biscuit
+Tue	COMFORT	Sausage Gravy
+Tue	COMFORT	Scrambled Eggs Cage Free
+Tue	DESSERT	Blueberry Scone
+Tue	DESSERT	Bagel
+Tue	DESSERT	Danish Pastry
+Tue	DESSERT	English Muffin
+Tue	DESSERT	Iced Cinnamon Roll
+Tue	DESSERT	Croissant
+Tue	DESSERT	White Bread
+Tue	DESSERT	Whole Wheat Bread
+Tue	DESSERT	Strawberry Preserves
+Tue	DESSERT	Peanut Butter
+Tue	DESSERT	Honey-Walnut Cream Cheese
+Tue	DESSERT	Whipped Cream Cheese
+Tue	DESSERT	Nutella
+Tue	DESSERT	Whipped Butter
+Tue	INTERNATIONAL GRILL	Bacon Pieces
+Tue	INTERNATIONAL GRILL	Diced Pork Sausage Patty
+Tue	INTERNATIONAL GRILL	Diced Turkey
+Tue	INTERNATIONAL GRILL	Egg
+Tue	INTERNATIONAL GRILL	Egg Whites
+Tue	INTERNATIONAL GRILL	Shredded Cheddar Cheese
+Tue	INTERNATIONAL GRILL	Shredded Mozzarella
+Tue	INTERNATIONAL GRILL	Baby Spinach
+Tue	INTERNATIONAL GRILL	Diced Green Peppers
+Tue	INTERNATIONAL GRILL	Diced Onions
+Tue	INTERNATIONAL GRILL	Diced Tomatoes
+Tue	INTERNATIONAL GRILL	Sauteed Mushrooms
+Wed	COMFORT	Grits
+Wed	COMFORT	Old Fashioned Oatmeal
+Wed	COMFORT	Lyonnaise Potatoes
+Wed	COMFORT	Applewood Smoked Bacon
+Wed	COMFORT	Pork Sausage Patty
+Wed	COMFORT	Southern Biscuit
+Wed	COMFORT	Turkey Sausage Patty
+Wed	COMFORT	Sausage Gravy
+Wed	COMFORT	Scrambled Eggs Cage Free
+Wed	DESSERT	Blueberry Scone
+Wed	DESSERT	Bagel
+Wed	DESSERT	Danish Pastry
+Wed	DESSERT	English Muffin
+Wed	DESSERT	Iced Cinnamon Roll
+Wed	DESSERT	Croissant
+Wed	DESSERT	White Bread
+Wed	DESSERT	Whole Wheat Bread
+Wed	DESSERT	Strawberry Preserves
+Wed	DESSERT	Peanut Butter
+Wed	DESSERT	Garlic Parmesan Spread
+Wed	DESSERT	Whipped Cream Cheese
+Wed	DESSERT	Nutella
+Wed	DESSERT	Whipped Butter
+Wed	INTERNATIONAL GRILL	Bacon Pieces
+Wed	INTERNATIONAL GRILL	Diced Pork Sausage Patty
+Wed	INTERNATIONAL GRILL	Diced Turkey
+Wed	INTERNATIONAL GRILL	Egg
+Wed	INTERNATIONAL GRILL	Egg Whites
+Wed	INTERNATIONAL GRILL	Shredded Cheddar Cheese
+Wed	INTERNATIONAL GRILL	Shredded Mozzarella
+Wed	INTERNATIONAL GRILL	Baby Spinach
+Wed	INTERNATIONAL GRILL	Diced Green Peppers
+Wed	INTERNATIONAL GRILL	Diced Onions
+Wed	INTERNATIONAL GRILL	Diced Tomatoes
+Wed	INTERNATIONAL GRILL	Sauteed Mushrooms
+Thu	COMFORT	Grits
+Thu	COMFORT	Old Fashioned Oatmeal
+Thu	COMFORT	Sweet Potato Home Fries
+Thu	COMFORT	Applewood Smoked Bacon
+Thu	COMFORT	Pork Sausage Links
+Thu	COMFORT	Turkey Bacon
+Thu	COMFORT	Southern Biscuit
+Thu	COMFORT	Sausage Gravy
+Thu	COMFORT	Scrambled Eggs Cage Free
+Thu	DESSERT	Blueberry Scone
+Thu	DESSERT	Bagel
+Thu	DESSERT	Danish Pastry
+Thu	DESSERT	English Muffin
+Thu	DESSERT	Iced Cinnamon Roll
+Thu	DESSERT	Croissant
+Thu	DESSERT	White Bread
+Thu	DESSERT	Whole Wheat Bread
+Thu	DESSERT	Strawberry Preserves
+Thu	DESSERT	Peanut Butter
+Thu	DESSERT	Sun-Dried Tomato Cream Cheese
+Thu	DESSERT	Whipped Cream Cheese
+Thu	DESSERT	Nutella
+Thu	DESSERT	Whipped Butter
+Thu	INTERNATIONAL GRILL	Bacon Pieces
+Thu	INTERNATIONAL GRILL	Diced Pork Sausage Patty
+Thu	INTERNATIONAL GRILL	Diced Turkey
+Thu	INTERNATIONAL GRILL	Egg
+Thu	INTERNATIONAL GRILL	Egg Whites
+Thu	INTERNATIONAL GRILL	Fried Egg
+Thu	INTERNATIONAL GRILL	Shredded Cheddar Cheese
+Thu	INTERNATIONAL GRILL	Shredded Mozzarella
+Thu	INTERNATIONAL GRILL	Baby Spinach
+Thu	INTERNATIONAL GRILL	Diced Green Peppers
+Thu	INTERNATIONAL GRILL	Diced Onions
+Thu	INTERNATIONAL GRILL	Diced Tomatoes
+Thu	INTERNATIONAL GRILL	Sauteed Mushrooms
+Fri	COMFORT	Grits
+Fri	COMFORT	Old Fashioned Oatmeal
+Fri	COMFORT	O'Brien Potatoes
+Fri	COMFORT	Applewood Smoked Bacon
+Fri	COMFORT	Canadian Bacon
+Fri	COMFORT	Turkey Sausage Link
+Fri	COMFORT	Southern Biscuit
+Fri	COMFORT	Sausage Gravy
+Fri	COMFORT	Scrambled Eggs Cage Free
+Fri	DESSERT	Blueberry Scone
+Fri	DESSERT	Bagel
+Fri	DESSERT	Danish Pastry
+Fri	DESSERT	English Muffin
+Fri	DESSERT	Iced Cinnamon Roll
+Fri	DESSERT	Croissant
+Fri	DESSERT	White Bread
+Fri	DESSERT	Whole Wheat Bread
+Fri	DESSERT	Strawberry Preserves
+Fri	DESSERT	Peanut Butter
+Fri	DESSERT	Pesto Cream Cheese
+Fri	DESSERT	Whipped Cream Cheese
+Fri	DESSERT	Nutella
+Fri	DESSERT	Whipped Butter
+Fri	INTERNATIONAL GRILL	Bacon Pieces
+Fri	INTERNATIONAL GRILL	Diced Pork Sausage Patty
+Fri	INTERNATIONAL GRILL	Diced Turkey
+Fri	INTERNATIONAL GRILL	Egg
+Fri	INTERNATIONAL GRILL	Egg Whites
+Fri	INTERNATIONAL GRILL	Shredded Cheddar Cheese
+Fri	INTERNATIONAL GRILL	Shredded Mozzarella
+Fri	INTERNATIONAL GRILL	Baby Spinach
+Fri	INTERNATIONAL GRILL	Diced Green Peppers
+Fri	INTERNATIONAL GRILL	Diced Onions
+Fri	INTERNATIONAL GRILL	Diced Tomatoes
+Fri	INTERNATIONAL GRILL	Sauteed Mushrooms
+Sat	COMFORT	Grilled Spicy Lemon Chicken
+Sat	COMFORT	Grilled Kielbasa
+Sat	COMFORT	Grits
+Sat	COMFORT	Old Fashioned Oatmeal
+Sat	COMFORT	Crispy Tater Bites
+Sat	COMFORT	Scallion Mashed Potatoes
+Sat	COMFORT	Turkey Sausage Patty
+Sat	COMFORT	Vegetarian Refried Beans
+Sat	COMFORT	Italian Vegetable Blend
+Sat	COMFORT	Buttermilk Biscuit
+Sat	COMFORT	Flour Tortilla
+Sat	COMFORT	AppleWood Bacon
+Sat	COMFORT	Scrambled Eggs Cage Free
+Sat	COMFORT	Corn Tortilla
+Sat	DESSERT	Blueberry Scone
+Sat	DESSERT	Bagel
+Sat	DESSERT	Danish Pastry
+Sat	DESSERT	English Muffin
+Sat	DESSERT	Iced Cinnamon Roll
+Sat	DESSERT	Croissant
+Sat	DESSERT	White Bread
+Sat	DESSERT	Whole Wheat Bread
+Sat	DESSERT	Grape Jelly
+Sat	DESSERT	Peanut Butter
+Sat	DESSERT	Pesto Cream Cheese
+Sat	DESSERT	Whipped Cream Cheese
+Sat	DESSERT	Nutella
+Sat	DESSERT	Whipped Butter
+Sat	INTERNATIONAL GRILL	Bacon Pieces
+Sat	INTERNATIONAL GRILL	Diced Pork Sausage Patty
+Sat	INTERNATIONAL GRILL	Egg
+Sat	INTERNATIONAL GRILL	Egg Whites
+Sat	INTERNATIONAL GRILL	Fried Egg
+Sat	INTERNATIONAL GRILL	Shredded Cheddar Cheese
+Sat	INTERNATIONAL GRILL	Shredded Mozzarella
+Sat	INTERNATIONAL GRILL	Baby Spinach
+Sat	INTERNATIONAL GRILL	Diced Tomatoes
+Sat	INTERNATIONAL GRILL	Sauteed Mushrooms
+Sat	INTERNATIONAL GRILL	Sauteed Onions
+Sat	INTERNATIONAL GRILL	Sauteed Red & Green Peppers
+Sat	PIZZA	Margherita Stromboli
+Sat	PIZZA	Meatball Stromboli
+Sat	PIZZA	Classic Cheese Pizza
+Sat	PIZZA	Pepperoni Pizza
+Sun	COMFORT	Carolina Pulled Pork with Tangy Slaw
+Sun	COMFORT	Grilled Bratwurst
+Sun	COMFORT	Grits
+Sun	COMFORT	Old Fashioned Oatmeal
+Sun	COMFORT	Lyonnaise Potatoes
+Sun	COMFORT	Pork Sausage Patty
+Sun	COMFORT	Baked Beans
+Sun	COMFORT	Vegetarian Refried Beans
+Sun	COMFORT	Seasoned Corn
+Sun	COMFORT	Seasoned Broccoli
+Sun	COMFORT	Buttermilk Biscuit
+Sun	COMFORT	Flour Tortilla
+Sun	COMFORT	AppleWood Bacon
+Sun	COMFORT	Scrambled Eggs Cage Free
+Sun	COMFORT	Corn Tortilla
+Sun	DESSERT	Blueberry Scone
+Sun	DESSERT	Bagel
+Sun	DESSERT	Danish Pastry
+Sun	DESSERT	English Muffin
+Sun	DESSERT	Iced Cinnamon Roll
+Sun	DESSERT	Croissant
+Sun	DESSERT	White Bread
+Sun	DESSERT	Whole Wheat Bread
+Sun	DESSERT	Grape Jelly
+Sun	DESSERT	Peanut Butter
+Sun	DESSERT	Pesto Cream Cheese
+Sun	DESSERT	Whipped Cream Cheese
+Sun	DESSERT	Nutella
+Sun	DESSERT	Whipped Butter
+Sun	INTERNATIONAL GRILL	Bacon Pieces
+Sun	INTERNATIONAL GRILL	Diced Pork Sausage Patty
+Sun	INTERNATIONAL GRILL	Egg
+Sun	INTERNATIONAL GRILL	Egg Whites
+Sun	INTERNATIONAL GRILL	Shredded Cheddar Cheese
+Sun	INTERNATIONAL GRILL	Shredded Mozzarella
+Sun	INTERNATIONAL GRILL	Turkey Sausage Patty
+Sun	INTERNATIONAL GRILL	Baby Spinach
+Sun	INTERNATIONAL GRILL	Diced Tomatoes
+Sun	INTERNATIONAL GRILL	Sauteed Mushrooms
+Sun	INTERNATIONAL GRILL	Sauteed Onions
+Sun	INTERNATIONAL GRILL	Sauteed Red & Green Peppers
+Sun	PIZZA	Bacon & Grilled Potato Flatbread
+Sun	PIZZA	Classic Cheese Pizza
+Sun	PIZZA	Margherita Pizza
+Sun	PIZZA	Pepperoni Pizza
