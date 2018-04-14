@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  MenuAppTestSwift4
 //
-//  Created by creid on 2/5/18.
-//  Copyright © 2018 creid. All rights reserved.
+//  Created by gpeterso on 4/5/18.
+//  Copyright © 2018 gpeterso. All rights reserved.
 //
 // 
 
@@ -17,6 +17,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplicationLaunchOptionsKey: Any]?) -> Bool {
         // Override point for customization after application launch.
+        UINavigationBar.appearance().barStyle = .blackOpaque
         return true
     }
 
