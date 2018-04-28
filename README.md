@@ -5,4 +5,4 @@ This app is written in Swift 4. Functionality has not (yet)  been added to updat
 
 Also, I should note that the functionality for reading in the menu text file was written by Chris Reid.
 
-<img src="https://github.com/gpeterso-trinity/TUMenuAppSwift4/blob/master/day_selection_view.png" alt="Day Selection View"> <img src="https://github.com/gpeterso-trinity/TUMenuAppSwift4/blob/master/menu_view.png" alt="Menu View">
+<img src="https://github.com/gpeterso-trinity/TUMenuAppSwift4/blob/master/day_selection_view.png" alt="Day Selection View" width="40%" height="40%"> <img src="https://github.com/gpeterso-trinity/TUMenuAppSwift4/blob/master/menu_view.png" alt="Menu View" width="40%" height="40%">
